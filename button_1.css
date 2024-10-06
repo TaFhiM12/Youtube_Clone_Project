@@ -1,0 +1,38 @@
+.subscribe_button{
+    background-color: rgba(255, 0, 0, 0.669);
+    color: white;
+    height: 36px;
+    width: 100px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.join_button{
+    background-color: white(255, 0, 0, 0.669);
+    color: rgb(0, 0, 255);
+    height: 36px;
+    width: 70px;
+    /* border: none; */
+    border-color: rgba(23, 23, 189, 0.692);
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 1px;
+    cursor: pointer;
+    margin: 10px;
+}
+.twitter_button{
+    background-color:rgb(58, 58, 194);
+    color:white;
+    height: 36px;
+    width : 80px;
+    border: none;
+    /* border-color: rgba(23, 23, 189, 0.692); */
+    border-style: solid;
+    border-radius: 18px;
+    /* border-width: 1px; */
+    cursor: pointer;
+    font-size: 15px;
+    margin: 10px;
+}
